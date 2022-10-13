@@ -121,5 +121,5 @@
  <h3><a href="#home"> 💻</a> Plots usando Escala logarítimica </h3>	
 
 <br> <strong> 49. </strong> Plote um pairplot de anos_estudo_empreendedor por pib_pc
-<br> <strong> 50. </strong Crie uma nova variável chamada log_pib_pc com o log de pib_pc
+  <br> <strong> 50. </strong> Crie uma nova variável chamada log_pib_pc com o log de pib_pc
 <br> <strong> 51. </strong> Plote um pairplot de anos_estudo_empreendedor por log_pib_pc
