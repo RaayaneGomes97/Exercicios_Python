@@ -5,7 +5,7 @@
 <table class="gn-seletable">
 <tbody><tr>
 <th><a href="https://github.com/RayaneGomes97/Exercicios_Python/blob/master/README.md"> Voltar ao menu incial</a></th>
-<th><a href="https://github.com/RayaneGomes97/Exercicios_Python/blob/master/Mundo%203/Lista_mundo3.md">Acessar lista </a></th>
+<th><a href="https://github.com/RayaneGomes97/Exercicios_Python/blob/main/Curso%20em%20video/Mundo%203/Lista_mundo3.md">Acessar lista </a></th>
 <th>Verificar status </th>
   <th><a href="https://github.com/RayaneGomes97/Exercicios_Python/tree/main/Curso%20em%20video/Mundo%203/Resolu%C3%A7%C3%A3o">Consultar respostas</a></th></table>
 
