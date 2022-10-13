@@ -3,8 +3,8 @@
 <tbody><tr>
 <th><a href="https://github.com/RayaneGomes97/Exercicios_Python/blob/master/README.md"> Voltar ao menu incial</a></th>
 <th>Acessar  lista</th>
-<th><a href="https://github.com/RayaneGomes97/Exercicios_Python/blob/master/Mundo%201/status.md">Verificar status </a></th>
-  <th><a href="https://github.com/RayaneGomes97/Exercicios_Python/tree/master/Mundo%201/Resolu%C3%A7%C3%A3o">Consultar respostas</a></th></table>
+<th><a href="https://github.com/RayaneGomes97/Exercicios_Python/blob/main/Curso%20em%20video/Mundo%201/status.md">Verificar status </a></th>
+  <th><a href="https://github.com/RayaneGomes97/Exercicios_Python/tree/main/Curso%20em%20video/Mundo%201/Resolu%C3%A7%C3%A3o">Consultar respostas</a></th></table>
 
   
 
@@ -371,5 +371,4 @@ O mesmo professor do desafio anterior quer sortear a ordem de apresentação de 
 <h3><a href="#home"> 💻</a>  Desafio 35 </h3>
 
 <p> Desenvolva um prgorama que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo </p>
- <!----------------------------------------------------------------------------------------------------- -->
->>>>>>> 3109b45a12757350156ab403cd041e92bf0bf853:Mundo 1/Lista_mundo1.md
+
