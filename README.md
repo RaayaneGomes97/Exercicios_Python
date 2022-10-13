@@ -16,15 +16,15 @@ Adicionar novo item:
  
  <H2> Curso em vídeo - Gustavo Guanabara  </h2>
  
- 
-<table class="gn-seletable">
+ <table class="gn-seletable">
 <tbody><tr>
 <th>id</th>
-<th>Titulo</th><th>Lista de exercicio</th><th>Consultar status</th></tr>
+<th>Título</th><th>Lista de exercícios</th><th>Consultar Status</th></tr>
 <tr>
 <td>1</td>
-<td>Mundo 1</td><td><a href="https://github.com/RayaneGomes97/Exercicios_Python/edit/master/Curso%20em%20video/Mundo%201/Lista_mundo1.md"> Acessar item </a></td><td><a href="https://github.com/RayaneGomes97/Exercicios_Python/blob/master/Curso%20em%20video/Mundo%201/Lista_mundo1.md"> Acessar item </a></td></tr>
-<tr><td>2</td><td>Mundo 2</td><td><a href="https://github.com/RayaneGomes97/Exercicios_Python/blob/master/Curso%20em%20video/Mundo%202/Lista_mundo2.md"> Acessar item </a></td><td><a href="https://github.com/RayaneGomes97/Exercicios_Python/blob/master/Curso%20em%20video/Mundo%202/status.md"> Acessar Lista </a></td></tr><tr><td>3</td><td>Mundo 3</td><td><a href="https://github.com/RayaneGomes97/Exercicios_Python/blob/master/Curso%20em%20video/Mundo%203/Lista_mundo3.md"> Acessar item </a></td><td><a href="https://github.com/RayaneGomes97/Exercicios_Python/blob/master/Curso%20em%20video/Mundo%203/status.md"> Acessar Lista </a></td></tr></tbody></table>
+<td>Mundo 1 </td><td><a href="https://github.com/RayaneGomes97/Exercicios_Python/blob/main/Curso%20em%20video/Mundo%201/Lista_mundo1.md"> Acessar item </a></td><td><a href="https://github.com/RayaneGomes97/Exercicios_Python/blob/main/Curso%20em%20video/Mundo%201/status.md"> Acessar item </a></td></tr>
+<tr><td>2</td><td>Mundo 2</td><td><a href="https://github.com/RayaneGomes97/Exercicios_Python/blob/main/Curso%20em%20video/Mundo%202/Lista_mundo2.md"> Acessar item </a></td><td><a href="https://github.com/RayaneGomes97/Exercicios_Python/blob/main/Curso%20em%20video/Mundo%202/status.md"> Acessar item </a></td></tr><tr><td>3</td><td>Mundo 3</td><td><a href="https://github.com/RayaneGomes97/Exercicios_Python/blob/main/Curso%20em%20video/Mundo%203/Lista_mundo3.md"> Acessar item </a></td><td><a href="https://github.com/RayaneGomes97/Exercicios_Python/blob/main/Curso%20em%20video/Mundo%203/status.md"> Acessar item </a></td></tr></tbody></table>
+ 
   <!-------------------------- KAGGLE - INTRODUÇÃO A ANALISE DE DADOS ------------------------->
   
  <H2> Kaggle -  Notebook's  </h2>
