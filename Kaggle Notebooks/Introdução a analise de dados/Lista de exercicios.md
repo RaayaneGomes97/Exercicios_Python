@@ -9,7 +9,10 @@
 
 
 <!-- -------------------------------------------------------- -->
+  <strong> Fonte de referência </strong> da lista de exercícios: <a href="https://www.kaggle.com/code/joaoavf/introducao-a-analise-de-dados-python-e-pandas/notebook"> Acessar site </a> <br> 
+ <strong> Dataset utilizado: </strong> igm_modificado.csv
 
+----
 
 <h3><a href="#home"> 💻</a> Seleções Básicas </h3>	
 <br> <strong> 1. </strong> Selecionar as 10 primeiras linhas mostrando as colunas municipio, estado e idhm.
